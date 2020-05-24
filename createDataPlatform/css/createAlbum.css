@@ -1,0 +1,14 @@
+ input {
+ 	width:200px;
+ 	height:25px;
+ 	border-radius: 2px;
+ }
+ button {
+ 	background:rgb(45, 75, 107);
+ 	color:white;
+ 	text-align: center;
+ 	font-size:14px;
+ 	width: 100px;
+ 	height:38px;
+ 	border-radius: 10px;
+ }
