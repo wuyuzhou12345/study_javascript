@@ -1,2 +1,3 @@
 # study_javascript
-学习js
+createDataPlatform 造数平台
+focusPicture 焦点图轮播滚动
